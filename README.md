@@ -1,7 +1,7 @@
 
 ---
 
-# SBI CyberSecurity Scanner
+# Automated Vulnerabillities Detection System
 
 A cybersecurity scanning tool designed to help detect vulnerabilities in SBI (State Bank of India) online systems and related applications. **This project is intended for educational and testing purposes only.** Unauthorized scanning of any system without proper consent is illegal.
 
@@ -22,17 +22,13 @@ A cybersecurity scanning tool designed to help detect vulnerabilities in SBI (St
 - [Configuration](#configuration)
 - [Contribution Guidelines](#contribution-guidelines)
 - [Future Roadmap](#future-roadmap)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ---
 
 ## Overview
 
-The **SBI CyberSecurity Scanner** is a modular tool designed to assist security researchers and professionals in identifying potential vulnerabilities in systems related to SBI. It leverages both a backend scanning engine (primarily implemented in Python) and a frontend interface (using JavaScript, HTML, and CSS) to allow interactive scanning, report generation, and visualization of potential security flaws.
-
-This repository is a fork of [Vipul-Mhatre/SBI-CyberSecurity-Scanner](https://github.com/Vipul-Mhatre/SBI-CyberSecurity-Scanner) and has been further developed by Ronit26Mehta to include additional features and improvements.  
-cite51†
+The **Automated-Vulnerabillities-Detection-System** is a modular tool designed to assist security researchers and professionals in identifying potential vulnerabilities in systems related to SBI. It leverages both a backend scanning engine (primarily implemented in Python) and a frontend interface (using JavaScript, HTML, and CSS) to allow interactive scanning, report generation, and visualization of potential security flaws.
 
 ---
 
@@ -215,7 +211,7 @@ Adjust these settings in the provided configuration file (e.g., `config.json` or
 
 ## Contribution Guidelines
 
-Contributions to the SBI CyberSecurity Scanner are welcome. If you would like to contribute:
+Contributions to these repository are welcome. If you would like to contribute:
 
 1. **Fork the Repository:**  
    Create your own fork and clone it locally.
@@ -239,7 +235,7 @@ Please ensure your code adheres to the project’s coding standards and that all
 
 ## Future Roadmap
 
-The SBI CyberSecurity Scanner is a work in progress with plans for further enhancements:
+The Automated Vulnerabillities Detection System Scanner is a work in progress with plans for further enhancements:
 
 - **Advanced Vulnerability Modules:** Adding more scanning modules for a broader range of vulnerabilities.
 - **Enhanced Reporting:** Integrating graphical representations and downloadable reports.
@@ -248,12 +244,3 @@ The SBI CyberSecurity Scanner is a work in progress with plans for further enhan
 - **Community Contributions:** Encouraging community-driven improvements and extensions.
 
 ---
-
-## License
-
-*This project does not include a license file as of now. Please contact the repository maintainer for licensing details before using this tool for any purposes beyond research and education.*
-
----
-
-
-
